@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dektop Poozer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dektop Poozer\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
